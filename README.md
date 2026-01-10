@@ -1,9 +1,8 @@
 # Technical Showcase: Application Support & Product Operations
 
 ## 🎯 Overview
-This repository serves as a targeted technical portfolio for the **Application Support Analyst** role within the **Product Operations Team** at Inovatec. 
 
-In Product Operations, the priority is maintaining the bridge between complex software logic and reliable business outcomes. These labs demonstrate my ability to support cloud-based lending platforms through **data integrity auditing** and **automated system reliability**.
+In Product Operations, the priority is maintaining the bridge between complex software logic and reliable business outcomes. These labs demonstrate my ability to support cloud-based platforms through **data integrity auditing**, **automated system reliability**, and **secure application lifecycles**.
 
 ---
 
@@ -21,14 +20,24 @@ In Product Operations, the priority is maintaining the bridge between complex so
 * **The Solution:** A "Self-Healing" monitor that proactively polls service health and automatically triggers recovery actions before a user reports an issue.
 * **Key Skill:** Shows a proactive approach to application support, moving from "reactive" fixing to "automated" prevention.
 
+### 3. [HelpHub: Full-Stack Application Lifecycle & CI/CD](https://github.com/JennyCloud/helphub-app)
+**Ops Focus:** *Application Deployment & Secure Automation*
+* **The Problem:** Manual deployments of .NET applications are prone to human error and "configuration drift," while managing static credentials in CI/CD pipelines creates security vulnerabilities.
+* **The Solution:** A .NET cloud service deployed via **Bicep (IaC)** and **GitHub Actions** using **OIDC** for secure, passwordless authentication to Azure.
+* **Key Skill:** Demonstrates a complete understanding of the .NET application lifecycle and modern DevSecOps practices—ensuring that product updates are deployed safely and consistently.
+
 ---
 
 ## 🚀 Why I am a fit for Inovatec Product Operations
 As a "key member of the Product Operations Team," I bring a blend of technical execution and an operational mindset:
 
 * **Proactive Troubleshooting:** I don't just wait for tickets; I build monitors to catch issues early.
+* **Full-Stack Awareness:** I understand the relationship between C#/.NET application logic and the underlying Azure infrastructure.
 * **Data-Driven Support:** I use SQL to validate that the product is behaving exactly as the business logic intends.
 * **Documentation First:** Every solution I build is documented for the team, ensuring knowledge is shared and scalable.
 
+---
+
 ## 🔗 Quick Links
 * **Main GitHub Profile:** [JennyCloud](https://github.com/JennyCloud)
+* **Azure Operations Hub:** [azure-operations-hub](https://github.com/JennyCloud/azure-operations-hub)
