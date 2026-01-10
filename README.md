@@ -20,7 +20,7 @@ In Product Operations, the priority is maintaining the bridge between complex so
 * **The Solution:** A "Self-Healing" monitor that proactively polls service health and automatically triggers recovery actions before a user reports an issue.
 * **Key Skill:** Shows a proactive approach to application support, moving from "reactive" fixing to "automated" prevention.
 
-### 3. [HelpHub: Full-Stack Application Lifecycle & CI/CD](https://github.com/JennyCloud/helphub-app)
+### 3. [HelpHub: Full-Stack Application Lifecycle & CI/CD](https://github.com/JennyCloud/Azure-Zero-to-Hero/tree/main/Azure-RealWorld-Labs/Lab05-HelpHub-Community-Exchange)
 **Ops Focus:** *Application Deployment & Secure Automation*
 * **The Problem:** Manual deployments of .NET applications are prone to human error and "configuration drift," while managing static credentials in CI/CD pipelines creates security vulnerabilities.
 * **The Solution:** A .NET cloud service deployed via **Bicep (IaC)** and **GitHub Actions** using **OIDC** for secure, passwordless authentication to Azure.
