@@ -26,6 +26,12 @@ In Product Operations, the priority is maintaining the bridge between complex so
 * **The Solution:** A .NET cloud service deployed via **Bicep (IaC)** and **GitHub Actions** using **OIDC** for secure, passwordless authentication to Azure.
 * **Key Skill:** Demonstrates a complete understanding of the .NET application lifecycle and modern DevSecOps practices—ensuring that product updates are deployed safely and consistently.
 
+### 4. [Fintech Platform Operations Runbook](https://github.com/JennyCloud/fintech-platform-operations-runbook)
+**Ops Focus:** *Incident Response & Escalation*
+* **The Problem:** In high-pressure production environments, "guesswork" leads to extended downtime and potential data corruption.
+* **The Solution:** A comprehensive, multi-layer runbook covering SQL integrity, Azure App Service diagnostics, and Service Bus management.
+* **Key Skill:** Providing a structured, documented framework for incident triage and root cause analysis (RCA) within an Azure DevOps/Octopus Deploy environment.
+
 ---
 
 ## 🚀 Why I am a fit for Inovatec Product Operations
