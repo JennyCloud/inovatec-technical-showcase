@@ -34,16 +34,6 @@ In Product Operations, the priority is maintaining the bridge between complex so
 
 ---
 
-## 🚀 Why I am a fit for Inovatec Product Operations
-As a "key member of the Product Operations Team," I bring a blend of technical execution and an operational mindset:
-
-* **Proactive Troubleshooting:** I don't just wait for tickets; I build monitors to catch issues early.
-* **Full-Stack Awareness:** I understand the relationship between C#/.NET application logic and the underlying Azure infrastructure.
-* **Data-Driven Support:** I use SQL to validate that the product is behaving exactly as the business logic intends.
-* **Documentation First:** Every solution I build is documented for the team, ensuring knowledge is shared and scalable.
-
----
-
 ## 🔗 Quick Links
 * **Main GitHub Profile:** [JennyCloud](https://github.com/JennyCloud)
 * **Azure Operations Hub:** [azure-operations-hub](https://github.com/JennyCloud/azure-operations-hub)
